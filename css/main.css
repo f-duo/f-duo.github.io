@@ -1,0 +1,11 @@
+.welcome {
+	display:flex;
+	width:100%;
+	justify-content:center;
+	align-content:center;
+	flex:1;
+}
+
+.welcome h1 {
+	font-family:Rubik;
+}
