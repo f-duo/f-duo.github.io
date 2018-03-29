@@ -197,3 +197,11 @@ html, body {
 .install h2 {
     font-family: Rubik;
 }
+
+@media query and (max-width:450px) {
+	.video-container {
+	    width: 100%;
+	    display: flex;
+	    flex: 0;
+	}	
+}
