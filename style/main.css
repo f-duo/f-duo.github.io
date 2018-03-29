@@ -198,10 +198,11 @@ html, body {
     font-family: Rubik;
 }
 
-@media query and (max-width:450px) {
+@media screen and (max-width: 450px){
 	.video-container {
 	    width: 100%;
 	    display: flex;
 	    flex: 0;
-	}	
+	    height: auto;
+	}
 }
